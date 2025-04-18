@@ -1,12 +1,12 @@
 
- ##🤖 AI-Powered Course Recommender Chatbot
+## 🤖 AI-Powered Course Recommender Chatbot
 
 Welcome to the **AI Course Recommender Chatbot**! 🎓✨  
 This intelligent assistant helps students discover the best online courses across platforms like **Coursera**, **Udemy**, and **edX** — personalized to their skills, interests, and learning goals. 🚀
 
+---
 
-
-##🧠 Key Features
+## 🧠 Key Features
 
 - 💬 *Chatbot Interface* – Conversational UI for smooth user experience.
 - 🎯 *Personalized Recommendations* – Based on user skills, preferred difficulty, course type, duration, and platform.
@@ -19,6 +19,10 @@ This intelligent assistant helps students discover the best online courses acros
 - 📊 *Clean & Ranked Output* – Courses are ranked, formatted with clickable links, and presented clearly.
 
 ---
+
+## 📁 Project Structure
+
+```bash
 COURSE_RECOMMENDER/             
 ├── static/                    # 🌐 Static files (JS, CSS, icons)
 │   ├── favicon.ico            # ⭐ Browser icon
@@ -99,4 +103,5 @@ COURSE_RECOMMENDER/
 > *"Give me AI-related courses I can finish in under 4 weeks."*
 
 ---
+```
 
