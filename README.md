@@ -31,9 +31,6 @@ COURSE_RECOMMENDER/
 ├── app.py                     # 🚀 Flask backend with chatbot & recommendation logic
 ├── requirements.txt           # 📦 Required Python packages
 └── README.md                  # 📄 You are here!
-
-
-
 ```
 
 ---
