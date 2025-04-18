@@ -80,8 +80,8 @@ def recommend_courses(user):
     return "<br><br>".join(top_courses) if top_courses else "⚠️ No matching courses found."
 
 # ------------------ Gemini Setup ------------------
-genai.configure(api_key="AIzaSyC3n_JC_PcDIq7PIgh5Rzsw8KcTk-CwP4w")  # Add your Gemini API key here
-model = genai.GenerativeModel("gemini-1.5-pro-latest")
+genai.configure(api_key="")  # Add your Gemini API key here
+model = genai.GenerativeModel("")
 
 def clean_formatting(text):
     # Remove markdown-style asterisks
